@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hieu/repos/tictactoe/main.cpp
+iostream
+-
+string
+-
+optional
+-
+tuple
+-
+vector
+-
+limits.h
+-
+
